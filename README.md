@@ -1,3 +1,13 @@
+---
+title: Umami
+emoji: 🚀
+colorFrom: blue
+colorTo: purple
+sdk: docker
+pinned: false
+---
+
+
 <p align="center">
   <img src="https://content.umami.is/website/images/umami-logo.png" alt="Umami Logo" width="100">
 </p>
